@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p class="lead">Convert Your PDF or Image</p>
+    </div>
+
+    <div class="container mt-4">
+        <form method="post" enctype="multipart/form-data" asp-controller="PdfConverter" asp-action="Convert" id="uploadForm">
+            <div class="form-group">
+                <label for="file">Upload File (PDF or Image)</label>
+                <input type="file" name="file" id="file" class="form-control" accept=".pdf,.jpg,.jpeg,.png" required>
+            </div>
+            <br />
+            <button type="submit" class="btn btn-primary" id="submitBtn">Convert</button>
+        </form>
+    </div>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

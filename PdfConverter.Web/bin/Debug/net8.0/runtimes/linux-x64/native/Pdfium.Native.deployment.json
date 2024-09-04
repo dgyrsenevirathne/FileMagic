@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "default",
+	  "supported": "true",
+      "verify": [
+      ],
+      "install": [
+      ],
+      "runtime": [
+      ]
+    }
+  ]
+}

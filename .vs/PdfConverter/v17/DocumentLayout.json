@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\controllers\\pdfconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\controllers\\pdfconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\services\\ocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\services\\ocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|c:\\users\\yasith reshan\\desktop\\test1\\pdfconverter\\pdfconverter.web\\services\\iocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29785047-0687-4157-B81A-8080F8BB0511}|PdfConverter.Web\\PdfConverter.Web.csproj|solutionrelative:pdfconverter.web\\services\\iocrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PdfConverter.Web\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T07:10:15.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PdfConverter.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAowHkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T07:07:39.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PdfConverter.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:43:46.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Program.cs",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Program.cs",
+              "RelativeToolTip": "PdfConverter.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:29:21.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OcrService.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Services\\OcrService.cs",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Services\\OcrService.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Services\\OcrService.cs",
+              "RelativeToolTip": "PdfConverter.Web\\Services\\OcrService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:41:41.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOcrService.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Services\\IOcrService.cs",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Services\\IOcrService.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Services\\IOcrService.cs",
+              "RelativeToolTip": "PdfConverter.Web\\Services\\IOcrService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:40:24.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfConverterController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Controllers\\PdfConverterController.cs",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Controllers\\PdfConverterController.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Controllers\\PdfConverterController.cs",
+              "RelativeToolTip": "PdfConverter.Web\\Controllers\\PdfConverterController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAmwJQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:05:07.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PdfConverter.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:13:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PdfConverter.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T09:04:09.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PdfConverter.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PdfConverter.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T03:12:12.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

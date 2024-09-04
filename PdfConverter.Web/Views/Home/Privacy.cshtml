@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PdfConverter.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PdfConverter.Web.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            background-color: #f4f4f9;
+            color: #333;
+            font-family: 'Arial', sans-serif;
+        }
+
+        h1 {
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #0056b3;
+            margin-top: 30px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .custom-link {
+            color: #ffc107;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .custom-link:hover {
+                color: #28a745;
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <main role="main" class="pb-3">
+            <h1>@ViewData["Title"]</h1>
+
+            <p>Welcome to FileMagic's Privacy Policy page. We value your privacy and are committed to protecting your personal data. This policy explains how we collect, use, and safeguard your information when you visit our website.</p>
+
+            <h2>1. Introduction</h2>
+            <p>This Privacy Policy outlines the types of personal information that is received and collected by PdfConverter.Web and how it is used. By using our site, you consent to our privacy policy.</p>
+
+            <h2>2. Information We Collect</h2>
+            <p>We may collect and process the following types of personal data:</p>
+            <ul>
+                <li><strong>Personal Identification Information:</strong> When you upload files or interact with our services, we may collect personal details such as your name, email address, and contact information.</li>
+                <li><strong>Usage Data:</strong> We collect information about your interactions with our website, including IP address, browser type, operating system, and pages visited.</li>
+                <li><strong>Cookies and Tracking Technologies:</strong> We use cookies and similar technologies to enhance your browsing experience and analyze website traffic.</li>
+            </ul>
+
+            <h2>3. How We Use Your Information</h2>
+            <p>Your information may be used in the following ways:</p>
+            <ul>
+                <li>To provide, operate, and maintain our services.</li>
+                <li>To improve, personalize, and expand our services.</li>
+                <li>To communicate with you, including responding to inquiries and sending updates or promotional materials.</li>
+                <li>To analyze website usage and trends to enhance user experience.</li>
+            </ul>
+
+            <h2>4. Data Security</h2>
+            <p>We take reasonable measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction. However, please be aware that no method of transmission over the Internet or electronic storage is completely secure.</p>
+
+            <h2>5. Your Rights</h2>
+            <p>You have the following rights concerning your personal data:</p>
+            <ul>
+                <li><strong>Access:</strong> You can request a copy of the personal data we hold about you.</li>
+                <li><strong>Correction:</strong> You can request corrections to any inaccuracies in your personal data.</li>
+                <li><strong>Deletion:</strong> You can request the deletion of your personal data under certain circumstances.</li>
+                <li><strong>Objection:</strong> You may object to the processing of your personal data in specific situations.</li>
+            </ul>
+
+            <h2>6. Third-Party Links</h2>
+            <p>Our website may contain links to other websites that are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites.</p>
+
+            <h2>7. Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this Privacy Policy periodically for any changes.</p>
+
+            <h2>8. Contact Us</h2>
+            <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+            <p>Email: <a href="mailto:support@pdfconverter.com" class="custom-link">support@pdfconverter.com</a></p>
+            <p>Address: 123 Privacy St, Suite 456, Example City, EX 12345</p>
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Add custom JavaScript here
+            // Example: Smooth scrolling for anchor links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    document.querySelector(this.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html>

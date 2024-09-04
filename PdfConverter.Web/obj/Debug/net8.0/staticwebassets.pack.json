@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PdfConverter.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PdfConverter.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\images\\logo-no.png",
+      "PackagePath": "staticwebassets\\images\\logo-no.png"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\20240809113228.pdf",
+      "PackagePath": "staticwebassets\\uploads\\20240809113228.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\25005 - DGYR Senevirathne (2).pdf",
+      "PackagePath": "staticwebassets\\uploads\\25005 - DGYR Senevirathne (2).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\25005.pdf",
+      "PackagePath": "staticwebassets\\uploads\\25005.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\Inclass test_Test case writing.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Inclass test_Test case writing.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\Networking_Basics_Badge20240614-7-ajpifn.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Networking_Basics_Badge20240614-7-ajpifn.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\Project definition document .pdf",
+      "PackagePath": "staticwebassets\\uploads\\Project definition document .pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\Python_for_Beginners_E-Certificate.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Python_for_Beginners_E-Certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\SQA_inclass test.pdf",
+      "PackagePath": "staticwebassets\\uploads\\SQA_inclass test.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\Screenshot (276).png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot (276).png"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\Screenshot (277).png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot (277).png"
+    },
+    {
+      "Id": "C:\\Users\\Yasith Reshan\\Desktop\\test1\\PdfConverter\\PdfConverter.Web\\wwwroot\\uploads\\WhatsApp_Image_2024-08-29_at_22.47.23_44c88d2a-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\uploads\\WhatsApp_Image_2024-08-29_at_22.47.23_44c88d2a-removebg-preview (1).png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PdfConverter.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PdfConverter.Web.props",
+      "PackagePath": "build\\PdfConverter.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PdfConverter.Web.props",
+      "PackagePath": "buildMultiTargeting\\PdfConverter.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PdfConverter.Web.props",
+      "PackagePath": "buildTransitive\\PdfConverter.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

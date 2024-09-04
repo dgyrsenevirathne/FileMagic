@@ -1,0 +1,140 @@
+/* Base font size */
+html {
+    font-size: 14px;
+    scroll-behavior: smooth; /* Smooth scrolling */
+}
+
+/* Adjust font size for larger screens */
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Focus and active state styles */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem rgba(255, 255, 255, 0.5), 0 0 0 0.25rem #258cfb;
+}
+
+/* Ensure the html element takes up the full height of the viewport */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/* Add space at the bottom of the body */
+body {
+    margin-bottom: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+    transition: background-color 0.3s;
+}
+
+    /* Change background color on hover */
+    body:hover {
+        background-color: #e9ecef;
+    }
+
+/* Header styles */
+h1.display-4 {
+    color: #007bff;
+    animation: fadeIn 1s ease-in-out;
+}
+
+p.lead {
+    color: #6c757d;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+/* Form group styles */
+.form-group label {
+    font-weight: bold;
+}
+
+/* Button styles */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+
+
+/* Keyframe animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.footer > div {
+    padding-left: 40px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-darkgray {
+    background-color: #343a40;
+}
+
+.custom-link {
+    color: yellow;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+        color: white;
+    }
+
+/* Navbar link transition */
+.navbar-nav .nav-link {
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for color and transform */
+}
+
+    .navbar-nav .nav-link:hover {
+        color: #28a745; /* Green color on hover */
+        transform: scale(1.1); /* Slightly increase size on hover */
+    }
+
+/* Slide-in animation for navbar collapse */
+@keyframes slideIn {
+    from {
+        transform: translateY(-100%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+.navbar-collapse {
+    animation: slideIn 0.5s ease-out; /* Apply slide-in animation */
+}
+
+/* Toggler button transition */
+.navbar-toggler {
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+    .navbar-toggler:hover {
+        background-color: rgba(255, 255, 255, 0.1); /* Slightly change background color on hover */
+    }
